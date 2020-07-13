@@ -9,6 +9,11 @@ module.exports = {
           200: '#888883',
         },
       },
+      fontFamily: {
+        body: [
+          'Nunito',
+        ],
+      },
     },
   },
   variants: {},
